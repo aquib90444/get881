@@ -5,10 +5,10 @@ public class Sample {
 	public void show(){
 		System.out.println("Hello World");
 	}
-//
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//
-//	}
+	
+	public void method(){
+		System.out.println("Hello all, how are you doing");
+	}
+	
 
 }
