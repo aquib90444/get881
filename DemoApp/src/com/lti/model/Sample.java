@@ -9,7 +9,4 @@ public class Sample {
 	public void method(){
 		System.out.println("Hello all, how are you doing");
 	}
-	
-	System.out.println("yes");
-
 }
