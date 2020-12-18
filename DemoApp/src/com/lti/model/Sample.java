@@ -10,5 +10,6 @@ public class Sample {
 		System.out.println("Hello all, how are you doing");
 	}
 	
+	System.out.println("yes");
 
 }
